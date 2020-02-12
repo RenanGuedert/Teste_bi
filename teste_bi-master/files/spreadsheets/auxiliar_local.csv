@@ -1,0 +1,28 @@
+Estado;UF;Região;Qtd Mun
+Rondônia;RO;Região Norte;52
+Acre;AC;Região Norte;22
+Amazonas;AM;Região Norte;62
+Roraima;RR;Região Norte;15
+Pará;PA;Região Norte;144
+Amapá;AP;Região Norte;16
+Tocantins;TO;Região Norte;139
+Maranhão;MA;Região Nordeste;217
+Piauí;PI;Região Nordeste;224
+Ceará;CE;Região Nordeste;184
+Rio Grande do Norte;RN;Região Nordeste;167
+Paraíba;PB;Região Nordeste;223
+Pernambuco;PE;Região Nordeste;185
+Alagoas;AL;Região Nordeste;102
+Sergipe;SE;Região Nordeste;75
+Bahia;BA;Região Nordeste;417
+Minas Gerais;MG;Região Sudeste;853
+Espírito Santo;ES;Região Sudeste;78
+Rio de Janeiro;RJ;Região Sudeste;92
+São Paulo;SP;Região Sudeste;645
+Paraná;PR;Região Sul;399
+Santa Catarina;SC;Região Sul;295
+Rio Grande do Sul;RS;Região Sul;497
+Mato Grosso do Sul;MS;Região Centro-Oeste;79
+Mato Grosso;MT;Região Centro-Oeste;141
+Goiás;GO;Região Centro-Oeste;246
+Distrito Federal;DF;Região Centro-Oeste;1
